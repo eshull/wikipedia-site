@@ -19,5 +19,9 @@
   position: absolute;
   float: left;
   background-color: pink;
-  width: 100px;
+  width: 125px;
+}
+
+.navi {
+  margin-left: 125px;
 }
