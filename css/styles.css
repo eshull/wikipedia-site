@@ -52,14 +52,20 @@ h6{
   overflow: hidden;
 }
 
+.greenblue {
+ height: auto;
+ background-color: orange;
+}
+
 .greentext{
   padding-right: 20px;
   margin-right: 8px;
   border: 1px solid green;
+  height: inherit;
 }
 
-.purpletext{
-  background-color: purple;
+.bluetext{
+  border: 1px solid purple;
 }
 
 .col-md-5 {
