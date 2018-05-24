@@ -1,7 +1,4 @@
-#navright {
-  float: right;
-  width: 25%;
-}
+
 
 #navleft {
   width: 50%;
@@ -11,4 +8,16 @@
 #search {
   float: right;
   width: 25%
+}
+
+#navright {
+  float: right;
+  width: 25%;
+}
+
+.sidebar{
+  position: absolute;
+  float: left;
+  background-color: pink;
+  width: 100px;
 }
