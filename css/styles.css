@@ -1,0 +1,14 @@
+#navright {
+  float: right;
+  width: 25%;
+}
+
+#navleft {
+  width: 50%;
+  float: left;
+}
+
+#search {
+  float: right;
+  width: 25%
+}
