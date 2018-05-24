@@ -26,6 +26,28 @@
   margin-left: 125px;
 }
 
-img {
+.content{
+  margin-left:145px;
+}
 
+.headr{
+  background-color: grey;
+  height: 125px;
+  margin-top: 45px;
+}
+
+.headr h3{
+  float: left;
+  background-color: blue;
+  width: 150px;
+}
+
+h6{
+  width:150px;
+  background-color: orange;
+}
+
+.headr ul {
+  height: 50px;
+  overflow: hidden;
 }
