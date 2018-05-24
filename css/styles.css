@@ -18,7 +18,7 @@
 .sidebar{
   position: absolute;
   float: left;
-  background-color: pink;
+  background-color: lightgrey;
   width: 125px;
 }
 
@@ -31,30 +31,30 @@
 }
 
 .headr{
-  background-color: grey;
+  background-color: lightgrey;
   height: 125px;
   margin-top: 45px;
 }
 
 .headr h3{
+  margin-top: 5px;
   float: left;
-  background-color: blue;
   width: 150px;
 }
 
 h6{
   width:150px;
-  background-color: orange;
 }
 
 .headr ul {
-  height: 50px;
+  margin-top: 15px;
+  height: 60px;
   overflow: hidden;
+
 }
 
 .greenblue {
  height: auto;
- background-color: orange;
 }
 
 .greentext{
@@ -62,10 +62,12 @@ h6{
   margin-right: 8px;
   border: 1px solid green;
   height: inherit;
+  background-color: lightgreen;
 }
 
 .bluetext{
   border: 1px solid purple;
+  background-color: lightblue;
 }
 
 .col-md-5 {
