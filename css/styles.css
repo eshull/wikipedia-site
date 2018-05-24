@@ -51,3 +51,17 @@ h6{
   height: 50px;
   overflow: hidden;
 }
+
+.greentext{
+  padding-right: 20px;
+  margin-right: 8px;
+  border: 1px solid green;
+}
+
+.purpletext{
+  background-color: purple;
+}
+
+.col-md-5 {
+  width: 40%;
+}
